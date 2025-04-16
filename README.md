@@ -10,9 +10,9 @@ Here i'll manage a repo where i'll upload the tasks done so far during my intern
 * https://drive.google.com/drive/folders/1rmqlsNbS8t-Ji8IVriSZjxuwyUUCDZKi?usp=sharing <--------: [ TASKS MAINTAINED ]
 
 
-============
-| SUMMARRY |
-.============
+=
+                                                                                                       | SUMMARRY |
+=
 
 * 1.5 months I majorly focused on data collection , data mining among online resources for different colleges like the TPO contact details, phone number not landline no, Dean ,name,email,designation,source link, and also collected the data about various jobs posting across different locations of india , jobs for freshers , onsite vs remote jobs vs hybrid jobs, which companies are hiring the most for which qualification etc.
 
